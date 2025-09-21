@@ -1,0 +1,110 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache
+nose2-*.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Translations
+*.mo
+
+# Local settings and DB
+local_settings.py
+db.sqlite3
+
+# Virtual environments
+venv/
+ENV/
+env/
+venv.bak/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Log files
+*.log
+logs/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Editor temporary files
+*~
+*.swp
+.project
+.classpath
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# pytype
+.pytype/
+
+# isort
+.isort.cfg
+
+# coverage html
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Docker
+docker-compose.override.yml
+
+# Local AWS/credentials
+.aws/
+
+# Poetry lock (if using poetry locally - adjust if you commit yours intentionally)
+poetry.lock
+
+# Node modules (if frontend present)
+node_modules/
+
+# SQLite
+*.db
+
+# Secrets and keys
+*.pem
+*.key
